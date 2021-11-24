@@ -1,1 +1,5 @@
-# CrypgoRSA
+# Crypgo RSA
+> Start by
+```
+go run .
+```
